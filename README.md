@@ -19,7 +19,7 @@ Technology Stack :
   <li>Database: Firebase or PostgreSQL for seamless data synchronization.</li>
 </ul>
 
-<h1>Demo: https://tinyurl.com/uGestv01</h1>
+<h1>Demo: https://tinyurl.com/uGestDemo</h1>
 
 <h2>Screenshots</h2>
 
