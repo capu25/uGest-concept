@@ -1,0 +1,56 @@
+{
+  "expo": {
+    "name": "uGest",
+    "slug": "uGest",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "fonts": [
+      {
+        "assets": "./assets/font/Nunito-Black.ttf"
+      },
+      {
+        "assets": "./assets/font/Nunito-Bold.ttf"
+      },
+      {
+        "assets": "./assets/font/Nunito-Light.ttf"
+      },
+      {
+        "assets": "./assets/font/Nunito-Medium.ttf"
+      }
+    ],
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "La fotocamera è necessaria per scannerizzare i codici QR e i codici a barre."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff",
+        "permissions": [
+          "CAMERA"
+        ]
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-calendar",
+        {
+          "calendarPermission": "Allow $(PRODUCT_NAME) to access your calendar"
+        }
+      ]
+    ]
+  }
+}
