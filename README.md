@@ -24,12 +24,12 @@ Technology Stack :
 <h2>Screenshots</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/758cd44e-ac2b-4cc8-b94b-09b8e68ae070" alt="Login" style="width: 30%; max-width: 200px;">
-  <img src="https://github.com/user-attachments/assets/d02d6ec3-66bb-40e9-bac3-ce97af48534a" alt="Home" style="width: 30%; max-width: 200px;">
-  <img src="https://github.com/user-attachments/assets/9288443b-4ee5-4545-afd4-5a8cd85693b6" alt="Details" style="width: 30%; max-width: 200px;">
-  <img src="https://github.com/user-attachments/assets/a633b4d1-b23d-4f22-b470-76a415c3e7c7" alt="Tools" style="width: 30%; max-width: 200px;">
-  <img src="https://github.com/user-attachments/assets/9ad70d2d-71b8-4d3f-aace-033a09b788d4" alt="Chatbot" style="width: 30%; max-width: 200px;">
-  <img src="https://github.com/user-attachments/assets/ec865cba-c1c1-48a9-a4a5-fe1500999833" alt="Kanban" style="width: 30%; max-width: 200px;">
+  <img src="https://github.com/user-attachments/assets/d0b8fbeb-cace-429b-8635-c9e3e3bd45c0" alt="Login" style="width: 30%; max-width: 200px;">
+  <img src="https://github.com/user-attachments/assets/d69b5ce2-c3db-4590-9196-4ea5a833eede" alt="Home" style="width: 30%; max-width: 200px;">
+  <img src="https://github.com/user-attachments/assets/824295f3-a447-4d86-99f0-8a8e1ae4f016" alt="Details" style="width: 30%; max-width: 200px;">
+  <img src="https://github.com/user-attachments/assets/eba9005b-2ab3-402e-910c-12c7fcf40543" alt="Tools" style="width: 30%; max-width: 200px;">
+  <img src="https://github.com/user-attachments/assets/d0c12969-6bd8-49fc-9e57-898a03ce15d1" alt="Chatbot" style="width: 30%; max-width: 200px;">
+  <img src="https://github.com/user-attachments/assets/925dd605-81e1-418c-b2b4-6026a2ff9193" alt="Kanban" style="width: 30%; max-width: 200px;">
 </div>
 
 <h2>Version: 0.1 (Concept Phase)</h2>
